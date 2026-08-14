@@ -90,7 +90,7 @@ python main.py --start-year 2010    # narrow the window
 python main.py --no-report          # skip the Markdown export
 ```
 
-### Notebook
+### Notebook 
 
 ```bash
 jupyter notebook notebooks/pipeline.ipynb
