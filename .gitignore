@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pipeline artifacts — regenerate with `python main.py`
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Figures and reports ARE committed: they are the point of the project.
+# Uncomment to treat them as build output instead.
+# figures/
+# reports/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
