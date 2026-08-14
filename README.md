@@ -106,7 +106,7 @@ pytest
 
 ---
 
-## How the data is cleaned
+## How the data is cleaned 
 
 Raw API output is not analysis-ready, so `src/clean.py` runs six passes and logs every one:
 
