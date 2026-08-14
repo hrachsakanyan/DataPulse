@@ -123,7 +123,7 @@ Trend endpoints are each series' own first and last **observed** year, so a coun
 
 ---
 
-## Chart design
+## Chart design 
 
 Every figure comes out of one system, defined once in `src/theme.py`:
 
