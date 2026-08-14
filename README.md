@@ -79,7 +79,7 @@ python main.py
 
 Python 3.10+. First run fetches from the API (a few seconds); later runs reuse the cache in `data/raw/`.
 
-### CLI
+### CLI 
 
 ```bash
 python main.py                      # full run, cache used when fresh
