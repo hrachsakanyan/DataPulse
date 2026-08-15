@@ -166,7 +166,7 @@ datapulse/
 
 ## Indicators 
 
-| Indicator | World Bank code | Unit |
+| Indicator | World Bank code | Unit | 
 | --- | --- | --- |
 | Life expectancy at birth | `SP.DYN.LE00.IN` | years |
 | Health expenditure per capita | `SH.XPD.CHEX.PC.CD` | current US$ |
