@@ -110,7 +110,7 @@ pytest
 
 Raw API output is not analysis-ready, so `src/clean.py` runs six passes and logs every one:
 
-| Pass | What it does | Why |
+| Pass | What it does | Why | 
 | --- | --- | --- |
 | Structural filter | drop rows with no ISO-3 code or year outside the window | regional aggregates come back with an empty country code |
 | De-duplicate | one row per (country, indicator, year) | revisions can produce repeats |
