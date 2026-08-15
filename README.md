@@ -136,7 +136,7 @@ Light figures live in `figures/`, dark in `figures/dark/`.
 
 ---
 
-## Project structure
+## Project structure 
 
 ```
 datapulse/
