@@ -13,7 +13,7 @@ python main.py
 
 ---
 
-## Pipeline
+## Pipeline 
 
 ```
           ┌──────────────┐
