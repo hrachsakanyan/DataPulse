@@ -1,4 +1,4 @@
-# DataPulse — API-to-Insights Pipeline
+# DataPulse — API-to-Insights Pipeline 
 
 An end-to-end data pipeline in Python: pull health statistics from a public API, clean them, measure the trends, and turn the result into charts and a written report.
 
